@@ -1,0 +1,16 @@
+images/
+data/
+esg-projet-big-data_v1.ipynb
+*.txt
+*.pdf
+data_raw/benefits.csv
+data_raw/companies.csv
+data_raw/company_industries.csv
+data_raw/company_specialities.csv
+data_raw/employee_counts.csv
+data_raw/industries.csv
+data_raw/job_industries.csv
+data_raw/job_postings.csv
+data_raw/job_skills.csv
+data_raw/salaries.csv
+data_raw/skills.csv
